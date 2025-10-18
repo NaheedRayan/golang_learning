@@ -1,6 +1,6 @@
 ## Practice Purpose
 
-I'm following [Go by Example](https://gobyexample.com/) to accelerate my Go learning journey.
+I'm following [Go by Example](https://gobyexample.com/) to accelerate my Go learning journey. This is just for my motivation. 
 
 ### Getting Started
 
